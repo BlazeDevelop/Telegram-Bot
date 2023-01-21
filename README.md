@@ -22,7 +22,7 @@ Installing:
 
 Clone the repository to your local machine
 
-'git clone https://github.com/YOUR_USERNAME/telegram-bot.git';
+'git clone https://github.com/BlazeDevelop/Telegram-Bot';
 
 Create a virtual environment and activate it:
 
@@ -83,7 +83,8 @@ pip
 
 Клонируйте репозиторий на вашу локальную машину:
 
-git clone https://github.com/YOUR_USERNAME/telegram-bot.git
+'git clone https://github.com/BlazeDevelop/Telegram-Bot'
+
 Создайте виртуальное окружение и активируйте его:
 
 python -m venv venv
